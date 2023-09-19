@@ -9,6 +9,11 @@
     "lint": "next lint",
     "format": "prettier --write ."
   },
+  "engines": {
+    "node": ">=18.16.0",
+    "yarn": "Please use NPM",
+    "npm": ">=9.5.1"
+  },
   "dependencies": {
     "@types/node": "20.6.2",
     "@types/react": "18.2.22",

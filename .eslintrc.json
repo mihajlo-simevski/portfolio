@@ -7,5 +7,5 @@
     "project": "./tsconfig.json"
   },
   "rules": {},
-  "ignorePatterns": ["next.config.js", "postcss.config.js"]
+  "ignorePatterns": ["next.config.js", "postcss.config.js", "commitlint.config.js"]
 }
